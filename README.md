@@ -16,13 +16,3 @@ aoc25/
 ```bash
 python3 harness.py day<N>/input.txt day<N>/solution.cpp
 ```
-
-## Progress
-
-- [ ] Day 1
-- [ ] Day 2
-- [ ] Day 3
-
-## Notes
-
-Track your progress and add solution notes here.
